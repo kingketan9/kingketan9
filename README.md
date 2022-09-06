@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingketan9](https://github.com/kingketan9)
 
-- 📫 How to reach me **ketangoyal116@gmail.com**
+- 📫 How to reach me: **ketangoyal116@gmail.com**
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact **Googling is my thing**
+- ⚡ Fun fact: **Googling is my thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
