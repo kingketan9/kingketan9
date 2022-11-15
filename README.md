@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo0
-Fork on GitHub0
 <h1 align="center">Hi 👋, I'm Ketan Goyal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
