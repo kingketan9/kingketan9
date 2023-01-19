@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ketan Goyal</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🔭 I’m currently working on **Machine leaning**
+- 🔭 I’m currently working on **Machine learning**
 
 - 🌱 I’m currently learning **Dockers and Kubernetics**
 
-- 👯 I’m looking to collaborate on **Machine leaning**
+- 👯 I’m looking to collaborate on **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kingketan9](https://github.com/kingketan9)
 
